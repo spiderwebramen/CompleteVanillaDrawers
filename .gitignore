@@ -24,6 +24,6 @@ run
 # Files from Forge MDK
 forge*changelog.txt
 
-
+dump/
 src/main/resources/assets/completevanilladrawers/textures/block/prototype/
 src/main/resources/assets/completevanilladrawers/textures/block/template/
