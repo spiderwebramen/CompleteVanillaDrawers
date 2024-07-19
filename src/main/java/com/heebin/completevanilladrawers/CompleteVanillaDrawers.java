@@ -17,7 +17,6 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
-// The value here should match an entry in the META-INF/mods.toml file
 @Mod(CompleteVanillaDrawers.MODID)
 public class CompleteVanillaDrawers {
     public static final String MODID = "completevanilladrawers";
