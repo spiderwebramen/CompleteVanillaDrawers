@@ -1,9 +1,0 @@
-{
-    "parent": "storagedrawers:block/full_drawers_orientable",
-    "textures": {
-        "top": "completevanilladrawers:block/drawers_cherry_side",
-        "front": "completevanilladrawers:block/drawers_cherry_front_2",
-        "side": "completevanilladrawers:block/drawers_cherry_side",
-        "trim": "completevanilladrawers:block/drawers_cherry_trim"
-    }
-}

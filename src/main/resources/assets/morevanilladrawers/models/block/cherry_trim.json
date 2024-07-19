@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {    
+        "all": "morevanilladrawers:block/drawers_cherry_side"
+    }
+}

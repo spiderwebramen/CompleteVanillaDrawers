@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=north": { "model": "completevanilladrawers:block/bamboo_full_drawers_2" },
-        "facing=east": { "model": "completevanilladrawers:block/bamboo_full_drawers_2", "y": 90 },
-        "facing=south": { "model": "completevanilladrawers:block/bamboo_full_drawers_2", "y": 180 },
-        "facing=west": { "model": "completevanilladrawers:block/bamboo_full_drawers_2", "y": 270 }
-    }
-}

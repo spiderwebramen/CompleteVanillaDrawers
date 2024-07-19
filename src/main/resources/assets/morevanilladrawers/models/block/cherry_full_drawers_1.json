@@ -1,0 +1,9 @@
+{
+    "parent": "storagedrawers:block/full_drawers_orientable",
+    "textures": {
+        "top": "morevanilladrawers:block/drawers_cherry_side",
+        "front": "morevanilladrawers:block/drawers_cherry_front_1",
+        "side": "morevanilladrawers:block/drawers_cherry_side",
+        "trim": "morevanilladrawers:block/drawers_cherry_trim"
+    }
+}
